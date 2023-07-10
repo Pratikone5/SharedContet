@@ -1,0 +1,467 @@
+{
+    "aries": {
+        "north": " North Node is in Aries",
+        "south": " South Node is in Libra",
+        "list": {
+            "first": {
+                "title_head": "Your Past Life Comfort",
+                "title": "Libra Superpowers 🌺",
+                "desc": " You've been playing the perfect peace-maker and diplomatic darling. With your South Node in Libra, you were all about creating harmony and making everyone happy. And boy, were you good at it!"
+                
+            },
+            "second": {
+                "title_head": "Your Current Struggle",
+                "title": "Too Much of a Good Thing 😅",
+                "desc": " Always thinking about others is tiring, right? You've been giving so much, it's left you feeling a little drained. And being uncomfortable with conflict? That's left you stepping back when you should have stepped up."
+                
+            },
+            "third": {
+                "title_head": "Your Current Calling",
+
+                "title": "Embrace Aries ♈ ",
+                "desc": "  It's time to prioritize you! Your North Node in Aries is all about discovering self-love, setting boundaries, and going after what you want. Embrace your individuality and learn to say 'No' when you need to."
+            },
+            "fourth": {
+                "title_head": "Your Life's Balance",
+                
+                "title": "Justice and Courage ⚖️",
+                "desc": "⚖️ Don't worry, your love for justice won't disappear. But now, it's about striking a balance. Face conflicts, stand your ground, and remember, it's okay to choose yourself."
+            },
+            "fifth" : {
+                "title_head": "Your Growth Journey",
+                "title" : "From Libra to Aries 🌱",
+                "desc" : " This is not about saying goodbye to Libra, but about welcoming Aries into the mix. Blend the grace of Libra with the boldness of Aries. Create your unique cosmic cocktail!"
+            },
+            "sixth": {
+                "title_head" : " Your Soul's Reward ",
+                "title" :"More to Share 💖",
+                "desc" : " The more you care for yourself, the more you can give to others. So, don't shy away from self-care. After all, your soul's journey is about to get even more exciting!"
+            }
+        }
+    },
+
+    
+        "sagittarius": {
+          "north": "North Node is in Sagittarius",
+          "south": "South Node is in Gemini",
+          "list": {
+            "first": {
+              "title_head": "Your Past Life Comfort",
+              "title": "Fact Finder: 📚",
+              "desc": "Your South Node in Gemini points to a past life where you were likely an excellent communicator, with a curiosity that knew no bounds. You were analytical, logical, and you found comfort in gathering and sharing information. Facts, data, and details were your safety nets, providing you with a sense of certainty and control."
+            },
+            "second": {
+              "title_head": "Your Current Struggle",
+              "title": "Seeking Direction: 🧭",
+              "desc": "Despite your excellent analytical abilities, you often find yourself feeling aimless and restless. You may struggle with focusing on a single goal, preferring to scatter your energies across multiple interests. You may also find it challenging to trust your intuition, often preferring hard data over gut feelings."
+            },
+            "third": {
+              "title_head": "Your Cosmic Calling",
+              "title": "Embrace Sagittarius: 🏹",
+              "desc": "Your North Node in Sagittarius calls for you to embrace the energy of exploration, adventure, and higher wisdom. This lifetime is about developing your intuition, expanding your worldview, and trusting in the journey. It is about learning to see the forest instead of getting lost in the details of individual trees."
+            },
+            "fourth": {
+              "title_head": "Your Life's Balance",
+              "title": "Intellect and Intuition: ☯️",
+              "desc": "Your task is to strike a balance between the intellectual curiosity of Gemini and the intuitive wisdom of Sagittarius. As much as it's important to gather facts and rely on logic, it's equally vital to trust your inner wisdom and be open to the unknown."
+            },
+            "fifth": {
+              "title_head": "Your Evolution Journey",
+              "title": "From Gemini to Sagittarius: 🚀",
+              "desc": "You're on a journey from the intellectual, data-driven realm of Gemini to the intuitive, adventurous energy of Sagittarius. You're learning to value higher wisdom and broaden your horizons, developing a balance between detailed analysis and holistic understanding."
+            },
+            "sixth": {
+              "title_head": "Your Soul's Reward",
+              "title": "Understanding the Bigger Picture: 🌍",
+              "desc": "As you embrace your Sagittarius North Node, you'll discover that life is an exciting adventure, full of teachings and wisdom. You'll learn that it's not just about the data but the bigger picture and the meaning behind it. You'll understand that real growth comes from daring to step out of your comfort zone and trusting your intuition."
+            }
+          }
+        
+      },
+      
+        "aquarius": {
+          "north": "North Node is in Aquarius",
+          "south": "South Node is in Leo",
+          "list": {
+            "first": {
+              "title_head": "Your Past Life Comfort",
+              "title": "Center Stage 🎭",
+              "desc": "Your South Node in Leo indicates a past life where you likely thrived in the spotlight. You were creative, warm, and magnetic, drawing people to you with your dynamic energy. You found comfort and security in personal recognition, fame, and being the center of attention."
+            },
+            "second": {
+              "title_head": "Your Current Struggle",
+              "title": "Seeking Equality 🤝",
+              "desc": "Despite your natural charisma, you often find yourself feeling isolated and disconnected from the collective. You may struggle with sharing the limelight or integrating within a group, preferring to stand out and command attention. You may also find it challenging to value others' contributions equally, often preferring personal glory over collective achievements."
+            },
+            "third": {
+              "title_head": "Your Cosmic Calling",
+              "title": "Embrace Aquarius 🌌",
+              "desc": "Your North Node in Aquarius beckons you to embrace the energy of humanitarianism, equality, and community. This lifetime is about learning to value the collective over the individual, sharing your gifts for the benefit of all, and connecting with others on a deep, authentic level."
+            },
+            "fourth": {
+              "title_head": "Your Life's Balance",
+              "title": "Individualism and Community ☯️",
+              "desc": "Your task is to find a balance between the individualistic expression of Leo and the collective consciousness of Aquarius. As much as it's important to express your unique self and be recognized, it's equally vital to be part of a community and work towards shared goals."
+            },
+            "fifth": {
+              "title_head": "Your Evolution Journey",
+              "title": "From Leo to Aquarius 🚀",
+              "desc": "You're on a journey from the charismatic, self-centric energy of Leo towards the inclusive, egalitarian realm of Aquarius. You're learning to appreciate the importance of group dynamics and communal efforts, developing a balance between personal expression and collective harmony."
+            },
+            "sixth": {
+              "title_head": "Your Soul's Reward",
+              "title": "Embracing the Collective 🌍",
+              "desc": "As you embrace your Aquarius North Node, you'll discover that life is not just about personal glory but also about contributing to a greater cause. You'll learn that real fulfillment comes from being part of a community and using your talents for the betterment of all."
+            }
+          }
+        },
+        "cancer": {
+            "north": "North Node is in Cancer",
+            "south": "South Node is in Capricorn",
+            "list": {
+                "first": {
+                    "title_head": "Your Past Life Comfort",
+                    "title": "Capricorn Superpowers 🗻",
+                    "desc": "You were accustomed to perseverance and constant struggle, battling adversities in an often ruthless and hostile environment. Your South Node in Capricorn lent you a persistent spirit, a knack for leadership and control, and an innate understanding of structures and practicality. You were incredibly hard-working, often finding success through sheer grit and determination."
+                },
+                "second": {
+                    "title_head": "Your Current Struggle",
+                    "title": "Hardship Hangover 😣",
+                    "desc": "The memories of your struggles have been deeply etched in your psyche, leading to unease even when things are going smoothly. You might also be overly critical and demanding of both yourself and others. The habit of having everything under control could make it challenging to foster nurturing relationships and achieve a healthy work-life balance."
+                },
+                "third": {
+                    "title_head": "Your Current Calling",
+                    "title": "Embrace Cancer 🦀",
+                    "desc": "Your North Node in Cancer encourages you to connect more deeply with your emotional self and others around you, particularly family members. You're invited to explore your softer, more vulnerable side, developing empathy and learning to express and understand emotions. It's time to prioritize your private life and personal relationships."
+                },
+                "fourth": {
+                    "title_head": "Your Life's Balance",
+                    "title": "Practicality and Nurturing ⚖️",
+                    "desc": "Your journey now is about finding the balance between the assertiveness of Capricorn and the empathy of Cancer. It's not about rejecting the power of Capricorn, but softening its rigidity with Cancer's nurturing touch. Acknowledge your need for control, but also allow yourself to trust in the process and flow of life."
+                },
+                "fifth": {
+                    "title_head": "Your Growth Journey",
+                    "title": "From Capricorn to Cancer 🌱",
+                    "desc": "As you navigate this journey, remember that it's not about forgetting your Capricorn roots, but about integrating the sensitivity of Cancer into your life. Merge the tenacity of Capricorn with the compassion of Cancer to create your unique cosmic blend."
+                },
+                "sixth": {
+                    "title_head": "Your Soul's Reward",
+                    "title": "Emotional Strength 💪",
+                    "desc": "Embracing your North Node in Cancer will help you tap into a whole new realm of emotional strength and inner peace. It'll allow you to form deeper, more meaningful relationships with those around you. Remember, the greater your understanding and acceptance of your own emotions, the more love and empathy you can extend to others. Your soul's journey is set to become incredibly rewarding!"
+                }
+            }
+        },
+        "capricorn": {
+            "north": " North Node is in Capricorn",
+            "south": " South Node is in Cancer",
+            "list": {
+            "first": {
+            "title_head": "Your Past Life Comfort",
+            "title": "The Caregiver: 🏠",
+            "desc": " Your South Node in Cancer points to a past life where you found comfort in being a nurturer and caregiver. Your primary concern was your family and home. You likely had strong emotional bonds with your loved ones and put their needs above your own. Emotional connections and familiar environments were your safe spaces."
+        },
+        "second": {
+            "title_head": "Your Current Struggle",
+            "title": "Seeking Independence: 🏔️",
+            "desc": " Despite your nurturing nature, your struggle lies in developing self-sufficiency and independence. You often find it hard to step out of your comfort zone, and you might fear the unknown and the unpredictable. You tend to avoid personal responsibility, preferring to support others rather than pursuing your own goals."
+            
+        },
+        "third": {
+            "title_head": "Your Cosmic Calling",
+
+            "title": "Embrace Capricorn: 🐐",
+            "desc": " Your North Node in Capricorn calls for maturity, responsibility, and ambition. It encourages you to focus on your own goals and needs, develop self-discipline, and learn to provide for yourself. It's about understanding that you can be both a caregiver and a leader, without sacrificing one for the other."
+        },
+        "fourth": {
+            "title_head": "Your Life's Balance",
+            
+            "title": "Emotional Care and Self-Leadership: ☯️",
+            "desc": " Your task is to balance the nurturing and caring nature of Cancer with the responsible, ambitious energy of Capricorn. It's important to care for others, but not at the expense of your own growth and aspirations."
+        },
+        "fifth" : {
+            "title_head": "Your Evolution Journey",
+            "title" : "From Cancer to Capricorn: 🌱",
+            "desc" : " Your journey is about moving from the emotional realm of Cancer to the disciplined, ambitious energy of Capricorn. You're learning to balance your caring nature with personal ambition, developing a healthy mix of emotional care and self-leadership."
+        },
+        "sixth": {
+            "title_head" : " Your Soul's Reward ",
+            "title" :"Self-Mastery: 👑",
+            "desc" : " As you embrace your Capricorn North Node, you'll discover the power of self-mastery and personal ambition. You'll learn that you can be a leader while still caring for others. You'll find out that you can achieve great things on your own, and this will fill you with a deep sense of accomplishment and self-worth."
+        }
+    }
+},
+
+    "gemini": {
+      "north": "North Node is in Gemini",
+      "south": "South Node is in Sagittarius",
+      "list": {
+        "first": {
+          "title_head": "Your Past Life Comfort",
+          "title": "Sagittarius Sageship 🏹",
+          "desc": "In a former life, you were a seeker of truth, a philosopher, perhaps a scholar. Your South Node in Sagittarius was all about finding meaning, learning languages, and accumulating knowledge. You were comfortable in your own intellectual bubble, but often felt misunderstood by others."
+        },
+        "second": {
+          "title_head": "Your Current Struggle",
+          "title": "Intellectual Isolation 🏞️",
+          "desc": "The rich inner life you've cultivated in your past life experiences can lead to a sense of intellectual superiority and isolation. You tend to get lost in your own world, overlooking the need to share your wisdom and learn from others."
+        },
+        "third": {
+          "title_head": "Your Cosmic Calling",
+          "title": "Embrace Gemini 🕊️",
+          "desc": "The North Node in Gemini is guiding you towards greater connection and communication. It's time to leave the ivory tower and engage with your local environment. Start by listening, then share your insights, opening the door to a two-way exchange of ideas and experiences."
+        },
+        "fourth": {
+          "title_head": "Your Life's Balance",
+          "title": "Wisdom and Communication 🎭",
+          "desc": "Your task in this lifetime is to harmonize your Sagittarius wisdom with Gemini's gift of communication. Combine your broad philosophical insights with the details that make those insights relevant and relatable."
+        },
+        "fifth": {
+          "title_head": "Your Evolution Journey",
+          "title": "From Sagittarius to Gemini 🌱",
+          "desc": "It's about complimenting your Sagittarius prowess with the curiosity and adaptability of Gemini. Learn to value the ideas and experiences of others as much as your own, nurturing a culture of dialogue and mutual respect."
+        },
+        "sixth": {
+          "title_head": "Your Soul's Reward",
+          "title": "An Enlightening Exchange 💡",
+          "desc": "As you open up to others, your world becomes richer. You get to share your wisdom, but you also get to see the world through other perspectives. This interaction can lead to even more profound insights, further enriching your journey and those around you."
+        }
+      }
+    },
+    
+        "leo": {
+          "north": "North Node is in Leo",
+          "south": "South Node is in Aquarius",
+          "list": {
+            "first": {
+              "title_head": "Your Past Life Comfort",
+              "title": "Aquarius Superpowers 🌬️",
+              "desc": "Your South Node in Aquarius granted you a sense of belonging within groups and networks, with a natural ability to connect with like-minded individuals. You enjoyed being part of collective causes and community engagements, valuing logic, freedom, and intellectual pursuits. You were likely detached, prioritizing independence, and often relying on peer support."
+            },
+            "second": {
+              "title_head": "Your Current Struggle",
+              "title": "The Aquarian Hangover 😣",
+              "desc": "Your past life reliance on peer approval and group support may manifest as over-concern about others' opinions of you, resulting in susceptibility to peer pressure. This could lead to suppressing your individuality and a struggle to form deep, meaningful relationships. You might also experience a sense of detachment from yourself and others, opting for impersonal relations over intimate ones."
+            },
+            "third": {
+              "title_head": "Your Current Calling",
+              "title": "Embrace Leo 🦁",
+              "desc": "Your North Node in Leo is a calling to cultivate enthusiasm, courage, and creativity. It invites you to learn how to stand alone, to define your individuality, and to express yourself authentically. It's time to let your unique personality shine and embrace the warm energy of Leo, moving away from the cold detachment of Aquarius."
+            },
+            "fourth": {
+              "title_head": "Your Life's Balance",
+              "title": "Group Identity and Individuality ⚖️",
+              "desc": "Your journey is about harmonizing the collective consciousness of Aquarius with the self-expressive, individualistic energy of Leo. It's not about rejecting the power of Aquarius, but embracing the unique Leo within you."
+            },
+            "fifth": {
+              "title_head": "Your Growth Journey",
+              "title": "From Aquarius to Leo 🌱",
+              "desc": "Your transition from Aquarius to Leo involves nurturing your individuality while still valuing your connections. It's about expressing yourself freely, taking calculated risks, and following your heart instead of just your intellect. It's about trading a detached existence for one filled with passion and warmth."
+            },
+            "sixth": {
+              "title_head": "Your Soul's Reward",
+              "title": "Unleashed Creativity 🎭",
+              "desc": "When you embrace your North Node in Leo, your life becomes an artwork to be created with joy and passion. You're invited to express your creative side and find what truly brings you happiness. This journey can reward you with charisma, a contagious sense of humor, and the capacity to inspire and energize those around you. When you shine, you empower others to do the same."
+            }
+          }
+        },
+        "libra": {
+            "north": " North Node is in Libra",
+            "south": " South Node is in Aries",
+            "list": {
+            "first": {
+            "title_head": "Your Past Life Comfort",
+            "title": "Independent Warrior 🛡️",
+            "desc": " In your past life, you were known for your individuality and independence. Thriving in solitude, you always took the initiative and pioneered new paths. Challenges were faced head-on with fierce bravery and relentless energy."
+        },
+        "second": {
+            "title_head": "Your Current Struggle",
+            "title": "Solo to Partnership 🚀",
+            "desc": " Shifting from solo ventures to partnerships is your current struggle. While your independence served you well in the past, it hampers your ability to cooperate and form meaningful relationships. Compromising and understanding others' perspectives can be challenging, leading to a lack of harmony."
+            
+        },
+        "third": {
+            "title_head": "Your Cosmic Calling",
+
+            "title": "Embrace Libra ⚖️",
+            "desc": " The North Node in Libra calls you towards cooperation, diplomacy, and justice. Your soul yearns to form meaningful partnerships, create harmony and balance, and understand the perspectives of others."
+        },
+        "fourth": {
+            "title_head": "Your Life's Balance",
+            
+            "title": "Individualism and Cooperation 🌓",
+            "desc": " Your task is to balance the assertiveness of Aries with the diplomacy of Libra. Recognize that while independence is valuable, the ability to compromise, cooperate, and consider others' perspectives is equally important."
+        },
+        "fifth" : {
+            "title_head": "Your Evolution Journey",
+            "title" : "From Aries to Libra 🌱",
+            "desc" : " Your journey involves shifting from the independent, warrior-like energy of Aries to the harmonious, diplomatic energy of Libra. You're learning the importance of partnerships, shared responsibilities, and the art of compromise."
+        },
+        "sixth": {
+            "title_head" : " Your Soul's Reward ",
+            "title" :"Harmonious Relationships 🌷",
+            "desc" : " As you embrace your Libra North Node, you will find reward in balanced, harmonious relationships. Your personal growth will be greatly enhanced through your interactions with others, helping you create a fulfilling and balanced life."
+        }
+    }
+},
+
+    "pisces": {
+      "north": "North Node is in Pisces",
+      "south": "South Node is in Virgo",
+      "list": {
+        "first": {
+          "title_head": "Your Past Life Comfort",
+          "title": "Earthly Perfectionist 🌱",
+          "desc": "Your South Node in Virgo indicates a past life where you were highly logical, analytical, and detail-oriented. You likely sought order and perfection in everything, always adhering to well-structured routines. You found safety and comfort in the tangible reality, in being efficient, productive, and a reliable workhorse."
+        },
+        "second": {
+          "title_head": "Your Current Struggle",
+          "title": "Connecting to the Divine 📿",
+          "desc": "Despite your keen analytical mind, you often find yourself feeling disconnected from the divine or spiritual realm. Your focus on physical reality and details sometimes makes you miss out on spiritual experiences. Your overemphasis on logic and critical thinking may hinder your acceptance and understanding of the ineffable mysteries of life."
+        },
+        "third": {
+          "title_head": "Your Cosmic Calling",
+          "title": "Embrace Pisces 🐠",
+          "desc": "Your North Node in Pisces calls for you to delve into the mystical, intuitive, and healing aspects of life. This lifetime is about learning to trust your intuition, practicing compassion and empathy, and immersing yourself in spirituality. You're being invited to connect with your subconscious and learn the art of letting go."
+        },
+        "fourth": {
+          "title_head": "Your Life's Balance",
+          "title": "Rationality and Intuition ☯️",
+          "desc": "Your task is to balance the meticulous analytical nature of Virgo and the intuitive, mystical essence of Pisces. As crucial as it is to value tangible facts and maintain order, it's equally important to embrace the chaotic, imaginative, and intuitive side of life."
+        },
+        "fifth": {
+          "title_head": "Your Evolution Journey",
+          "title": "From Virgo to Pisces 🚀",
+          "desc": "You're transitioning from the structured, detail-oriented realm of Virgo towards the intuitive, compassionate, and spiritual energy of Pisces. You're learning to balance your strong work ethics with the need for spiritual growth and self-care, and to value imagination as much as logical thinking."
+        },
+        "sixth": {
+          "title_head": "Your Soul's Reward",
+          "title": "Unlocking Spiritual Wisdom 🌍",
+          "desc": "As you embrace your Pisces North Node, you'll realize that there's more to life than the physical realm. You'll understand the importance of self-love, compassion, and spirituality in healing not only yourself but also the world. You'll discover the value of trusting your intuition and the wisdom within your subconscious."
+        }
+      }
+    },
+    
+        "scorpio": {
+            "north": "North Node is in Scorpio",
+            "south": "South Node is in Taurus",
+            "list": {
+                "first": {
+                    "title_head": "Your Past Life Comfort",
+                    "title": "Stable Provider: 🐂",
+                    "desc": "Your South Node in Taurus points to a past life where you valued stability and material security above all. You were a hard worker, cautious, and always made sure you and your loved ones were comfortable and well-provided for. Your strong sense of ownership and attachment to physical possessions defined your sense of safety and security."
+                },
+                "second": {
+                    "title_head": "Your Current Struggle",
+                    "title": "The Fear of Dependence: 🏔️",
+                    "desc": "Despite your impressive self-reliance, you often find it challenging to trust others and ask for help. You are struggling with the fear of dependence and the possible loss of control it entails, even though your comfort zone of always providing for yourself makes your life harder than it needs to be."
+                },
+                "third": {
+                    "title_head": "Your Cosmic Calling",
+                    "title": "Embrace Scorpio: 🦂",
+                    "desc": "Your North Node in Scorpio calls for a deep transformation, encouraging you to embrace change and understand that there is more to life than material possessions. Your journey in this lifetime is about learning to be resourceful, embracing shared resources, and realizing that with the help of others, achieving your goals can be easier."
+                },
+                "fourth": {
+                    "title_head": "Your Life's Balance",
+                    "title": "Material and Spiritual: ☯️",
+                    "desc": "Your task is to balance the tangible and physical nature of Taurus with the emotional depth and spiritual transformation of Scorpio. While it's crucial to feel secure and stable, it's equally important to be open to change, share, and allow yourself to depend on others when necessary."
+                },
+                "fifth": {
+                    "title_head": "Your Evolution Journey",
+                    "title": "From Taurus to Scorpio: 🌱",
+                    "desc": "Your journey is about moving from the secure, material realm of Taurus to the deep, transformative energy of Scorpio. You're learning to value trust, shared resources, and personal transformation as much as physical security, developing a balance between material possessions and spiritual growth."
+                },
+                "sixth": {
+                    "title_head": "Your Soul's Reward",
+                    "title": "Strength in Transformation: 🦋",
+                    "desc": "As you embrace your Scorpio North Node, you will discover strength in transformation and crises. You will learn that you can rise like a phoenix, time and again, and that every loss is an opportunity to gain something better. You'll realize that your true value lies within you, not your possessions."
+                }
+            }
+        },
+        "virgo": {
+            "north": "North Node is in Virgo",
+            "south": "South Node is in Pisces",
+            "list": {
+                "first": {
+                    "title_head": "Your Past Life Comfort",
+                    "title": "Pisces Dreamer 🐠",
+                    "desc": "In your past life, your South Node in Pisces allowed you to live in a world of dreams and imagination. You were deeply spiritual, connected to the divine, and reveled in your creativity and sensitivity. However, there was a tendency to lose yourself in your dreams, and you often struggled to turn your aspirations into reality."
+                },
+                "second": {
+                    "title_head": "Your Current Struggle",
+                    "title": "Boundless Compassion 🌊",
+                    "desc": "You possess deep compassion, often extending it to others at the cost of your own well-being. This selflessness, while admirable, has often led you to be taken advantage of, and in the worst cases, resulted in feelings of helplessness and suffering. Your challenge now is to learn to enforce your boundaries and be compassionate towards yourself as well."
+                },
+                "third": {
+                    "title_head": "Your Cosmic Calling",
+                    "title": "Embrace Virgo 🌾",
+                    "desc": "The North Node in Virgo is urging you to be grounded, organized, and disciplined. In this lifetime, your soul yearns to engage more with the physical world, to take tangible action, and to find fulfillment in service to others."
+                },
+                "fourth": {
+                    "title_head": "Your Life's Balance",
+                    "title": "Imagination and Reality ⚖️",
+                    "desc": "In this lifetime, your task is to balance your Pisces ability to dream with Virgo's practicality. Use your vivid imagination to envision your goals, then employ Virgo's detail-oriented nature to break them down into manageable steps."
+                },
+                "fifth": {
+                    "title_head": "Your Growth Journey",
+                    "title": "From Pisces to Virgo 🌱",
+                    "desc": "Your journey involves moving from the dreamy, spiritual realm of Pisces to the organized, practical world of Virgo. You're learning to value the physical reality as much as the spiritual one, developing a culture of discipline, planning, and groundedness."
+                },
+                "sixth": {
+                    "title_head": "Your Soul's Reward",
+                    "title": "Balanced Mind, Body, and Soul 🏵️",
+                    "desc": "As you embrace your Virgo North Node, you'll find a rewarding balance between your body, mind, and soul. By focusing on the here and now, you'll be able to turn your dreams into reality and find fulfillment in the service of others."
+                }
+            }
+        },
+        "taurus": {
+            "north": " North Node is in Taurus",
+            "south": " South Node is in Scorpio",
+            "list": {
+            "first": {
+            "title_head": "Your Past Life Comfort",
+            "title": "Scorpio's Depth 🦂",
+            "desc": " You're no stranger to intensity and crisis, having your South Node in Scorpio. You've learned to navigate tumultuous waters and gained a deep understanding of the human psyche. Unearthing secrets? That's your jam!"
+        },
+        "second": {
+            "title_head": "Your Current Struggle",
+            "title": "Drama, Drama, Drama 😬",
+            "desc": " You may find yourself drawn to crisis and drama. There's a familiarity there that's hard to shake off. But your Taurus North Node is nudging you to find calmness amidst the storm and focus more on your own journey."
+            
+        },
+        "third": {
+            "title_head": "Your Current Calling",
+
+            "title": "Grounded in Taurus 🐂",
+            "desc": " Time to feel the earth beneath your feet! Your North Node in Taurus calls you to be more present, self-reliant, and grounded in the physical world. Discover self-esteem and create your own stability - they're your key to a peaceful life."
+        },
+        "fourth": {
+            "title_head": "Your Life's Balance",
+            
+            "title": "Serenity and Intensity ⚖️",
+            "desc": "⚖️ While your Scorpio South Node indicates a past steeped in intense experiences, your Taurus North Node urges you to cultivate tranquility. Striking this balance is your life's lesson."
+        },
+        "fifth" : {
+            "title_head": "Your Growth Journey",
+            "title" : "From Scorpio to Taurus 🌱",
+            "desc" : " This isn't about forgetting Scorpio; it's about embracing Taurus. Harness the mystery of Scorpio and marry it with Taurus's tangible realism. It's your unique blend of the spiritual and the physical!"
+        },
+        "sixth": {
+            "title_head" : "Your Soul's Reward",
+            "title" :"Trust in Yourself 💖",
+            "desc" : " The more you trust yourself, the more confident you become, attracting positivity into your life. This is your North Node in Taurus speaking - trust in it, and in yourself, to make your soul's journey truly fulfilling!"
+        }
+    }
+}
+
+    
+
+            
+            
+      
+  
+
+            
+            
+        
+      
+}
